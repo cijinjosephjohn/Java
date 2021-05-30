@@ -6,7 +6,7 @@ public class SixthProgram{
 		System.out.println("\n");
 		while(i<5){
 			if(b[i]>35){
-				System.out.println("Name : "+a[i]+"   Mark : "+b[i]+"\n");
+				System.out.println("Name : "+a[i]+"   Mark : "+b[i]+" \n");
 			}
 			i++;
 		}
